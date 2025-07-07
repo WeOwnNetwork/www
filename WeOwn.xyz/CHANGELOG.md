@@ -1,4 +1,4 @@
-## CHANGELOG: www.WeOwn.xyz (WordPress)
+# CHANGELOG: www.WeOwn.xyz (WordPress)
 
 [//]: # "We will use ecosystem seasons in this CHANGELOG"
 [//]: # "3️⃣win Social ecosystem / ♾️ WeOwn.Network 🌐 WeOwn.xyz"
@@ -13,19 +13,31 @@
 [//]: # "Add a new section for each ISO calendar week, most recent first"
 [//]: # "[TEXT]"
 
-### {Season #001} = Jun / Jul / Aug / Sep 2025
+All notable changes to this project will be documented in this file.
 
-#### {Season #001} ● 2025-W28
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-##### To Do
+[//]: # "▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀"
+[//]: # "NOTE:  About version numbering ..."
+[//]: # "USE:  [{Season #001}].[ISO-WEEK#].#"
+[//]: # "▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀"
+
+## {Season #001} = Jun / Jul / Aug / Sep 2025
+
+### [Unreleased]
 
 - Configure FluentCRM
+- Install Fluent Community
 
-#### {Season #001} ● 2025-W27
+### {Season #001} ● 2025-W28
 
-- WordPress v6.8.1 installed using Rocket.net agency site
-- Kadence v1.2.27 theme installed + Starter Templates
-- FluentSMTP v2.2.90 installed & configured using SMTP2Go as email service provider
-- FluentCRM v2.9.60 installed (not configured yet)
-- FluentBoards Pro v1.6.5 installed & initial boards setup with MrsYonks help
-- FluentBooking v1.8.0 installed but not activated
+- v1.28.0 | 🔜
+
+### {Season #001} ● 2025-W27
+
+- v1.27.4 | FluentBoards Pro v1.6.5 installed & initial boards setup with MrsYonks help
+- v1.27.3 | FluentCRM v2.9.60 installed (not configured yet)
+- v1.27.2 | FluentSMTP v2.2.90 installed & configured using SMTP2Go as email service provider
+- v1.27.1 | Kadence v1.2.27 theme installed + Starter Templates
+- v1.27.0 | WordPress v6.8.1 installed using Rocket.net agency site
