@@ -18,6 +18,6 @@
 
 - 💬 Chat (Telegram) ⇒ https://t.me/WinSocial/3654 (link to topic)
 - 🐦 X (Twitter) ⇒ https://twitter.com/WeOwnNetwork
-- 💼 LinkedIn ⇒ linkedin.com/company/weown-network
+- 💼 LinkedIn ⇒ https://linkedin.com/company/weown-network
 
 ```▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀```
