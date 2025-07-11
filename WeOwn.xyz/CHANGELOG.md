@@ -33,6 +33,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### {Season #001} ● 2025-W28
 
+- v1.28.5.1 | installed and activated FluentCRM Pro ([link: Free vs Pro](https://fluentcrm.com/free-vs-pro/))
+- v1.28.3.1 | initial configuration of FluentCRM via [Workshop] Getting Started with Fluent CRM (WordPress Plugin)｜♾️ WeOwn.Academy 🎓 + ♾️ WeOwn.Agency 👥
 - v1.28.1.1 | FluentBooking activated
 
 ### {Season #001} ● 2025-W27
