@@ -28,8 +28,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### [Unreleased]
 
-- Configure FluentCRM
-- Install Fluent Community
+- install WPESign Plugin ([approveme.com](https://www.approveme.com/))
+- Enhance configurations for FluentCRM + Fluent Community
 
 ### {Season #001} ● 2025-W28
 
