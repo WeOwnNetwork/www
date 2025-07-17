@@ -1,7 +1,7 @@
 # CHANGELOG: www.WeOwn.xyz (WordPress)
 
 [//]: # "We will use ecosystem seasons in this CHANGELOG"
-[//]: # "3️⃣win Social ecosystem / ♾️ WeOwn.Network 🌐 WeOwn.xyz"
+[//]: # "3️⃣win Social ecosystem / ♾️ WeOwn.xyz 🌐"
 [//]: # "▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀"
 [//]: # "{Season #001} = Jun / Jul / Aug / Sep 2025"
 [//]: # "{Season #002} = Oct / Nov / Dec 2025 / Jan 2026"
@@ -33,6 +33,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### {Season #001} ● 2025-W28
 
+- v1.28.6.1 | installed Fluent Community at [www.WeOwn.xyz/portal](https://www.WeOwn.xyz/portal).  WeOwn.Network + WeOwn.xyz have also been configured to forward to this portal URL.
 - v1.28.5.1 | installed and activated FluentCRM Pro ([link: Free vs Pro](https://fluentcrm.com/free-vs-pro/))
 - v1.28.3.1 | initial configuration of FluentCRM via [Workshop] Getting Started with Fluent CRM (WordPress Plugin)｜♾️ WeOwn.Academy 🎓 + ♾️ WeOwn.Agency 👥
 - v1.28.1.1 | FluentBooking activated
