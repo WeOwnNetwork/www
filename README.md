@@ -1,2 +1,2 @@
-# www
-Web assets within ♾️ WeOwn.Network 🌐 WeOwn.xyz
+# ♾️ [www.WeOwn.xyz](https://www.WeOwn.xyz) 🌐
+Ecosystem website hub: ♾️ [www.WeOwn.xyz](https://www.WeOwn.xyz) 🌐 
